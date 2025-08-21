@@ -831,3 +831,4 @@ kelloggalumni.northwestern.edu
 reb.ac.rw
 alumni.depaul.edu
 senacminas.edu.br
+uniremhos.edu.do
