@@ -1550,3 +1550,4 @@ asu.edu.jo
 bluecc.edu
 tvcc.edu
 usm.ac.id
+erzeszow.pl
