@@ -832,3 +832,5 @@ reb.ac.rw
 alumni.depaul.edu
 senacminas.edu.br
 uniremhos.edu.do
+snc.edu.pl
+ti.ues.edu.sv
