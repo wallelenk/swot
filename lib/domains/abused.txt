@@ -1555,3 +1555,4 @@ tedankara.k12.tr
 office.pknu.ac.kr
 hccc.edu
 ujat.mx
+ist.edu.pk
