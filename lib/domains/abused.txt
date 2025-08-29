@@ -328,7 +328,7 @@ mycom.marin.edu
 mymail.aacc.edu
 mymail.gaston.edu
 mymail.tcc.fl.edu
-mymail.tstc.edu
+tstc.edu
 myportal.taftcollege.edu
 mysvc.skagit.edu
 mywvm.wvm.edu
