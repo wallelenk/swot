@@ -1564,3 +1564,6 @@ umak.edu.ph
 naa.edu.az
 usat.pe
 udb.edu.sv
+vut.cz
+kmu.kr
+ulatina.net
