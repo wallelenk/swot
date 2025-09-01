@@ -1572,3 +1572,5 @@ pup.edu.ph
 ub.edu.ph
 bartin.edu.tr
 ptit.edu.vn
+uach.cl
+sw-ms.gne.go.kr
