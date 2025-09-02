@@ -639,7 +639,6 @@ estudiante.usat.edu.pe
 mc-class.gr
 mtmcollege.in
 rsat.org.uk
-altinbas.edu.tr
 stumail.zcs.k12.in.us
 dusit.ac.th
 nyfbox.hu
