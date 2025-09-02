@@ -821,3 +821,5 @@ stringtheoryschools.org
 oum.edu.my
 vfk.fr
 kut.edu.pl
+psis.edu.my
+snc.edu.pl
