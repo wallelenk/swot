@@ -1574,3 +1574,4 @@ bartin.edu.tr
 ptit.edu.vn
 uach.cl
 sw-ms.gne.go.kr
+aepap.edu.pt

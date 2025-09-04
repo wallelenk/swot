@@ -822,3 +822,4 @@ vfk.fr
 kut.edu.pl
 psis.edu.my
 snc.edu.pl
+mnmjec.ac.in
