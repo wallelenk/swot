@@ -639,7 +639,6 @@ estudiante.usat.edu.pe
 mc-class.gr
 mtmcollege.in
 rsat.org.uk
-altinbas.edu.tr
 stumail.zcs.k12.in.us
 dusit.ac.th
 nyfbox.hu
@@ -817,3 +816,15 @@ ovan.in
 uoen.in
 dakahliya3.moe.edu.eg
 mku.ac.ke
+stringtheoryschools.org
+oum.edu.my
+vfk.fr
+kut.edu.pl
+psis.edu.my
+snc.edu.pl
+mnmjec.ac.in
+wwcsd.org
+mccblr.edu.in
+ataa.sch.sa
+conti.sch.sa
+acsp.ac.th
