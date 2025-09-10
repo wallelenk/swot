@@ -1582,3 +1582,6 @@ itpln.ac.id
 um.ac.id
 ksu.edu.sa
 itcancun.edu.mx
+sut.edu.eg
+svnu.edu.eg
+morgan.edu
