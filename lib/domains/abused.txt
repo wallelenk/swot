@@ -1585,3 +1585,4 @@ itcancun.edu.mx
 sut.edu.eg
 svnu.edu.eg
 morgan.edu
+ilbc.edu.mm
