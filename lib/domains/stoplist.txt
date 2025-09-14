@@ -743,7 +743,6 @@ uat.edu.ng
 wxc.edu.kg
 gf.ukim.edu.mk
 student.mf.ukim.edu.mk
-khi.iba.edu.pk
 365.pnru.ac.th
 mcleon.de
 ulusiada.pt
@@ -822,3 +821,16 @@ vfk.fr
 kut.edu.pl
 psis.edu.my
 snc.edu.pl
+mnmjec.ac.in
+wwcsd.org
+mccblr.edu.in
+ataa.sch.sa
+conti.sch.sa
+acsp.ac.th
+art.sohag.edu.eg
+sohag2.moe.edu.eg
+alumni.uni.lu
+unmo.ba
+sem.ac.kr
+o365.bsru.ac.th
+st.ut.edu.sa
