@@ -1585,3 +1585,4 @@ morgan.edu
 ilbc.edu.mm
 uni-vt.bg
 rmutsvmail.com
+unima.ac.id
