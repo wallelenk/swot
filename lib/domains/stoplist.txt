@@ -502,7 +502,6 @@ sisu.edu.cn
 gatewaycollege.lk
 kalama.k12.wa.us
 stu.nthurston.k12.wa.us
-ipe.buet.ac.bd
 caa.columbia.edu
 itc.edu.kh
 o365.lhu.edu.tw
