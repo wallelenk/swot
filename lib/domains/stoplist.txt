@@ -836,3 +836,4 @@ st.ut.edu.sa
 fsnmv.dnu.edu.ua
 stu.ecnu.edu.cn
 office365.npust.edu.tw
+eau.ac.th
