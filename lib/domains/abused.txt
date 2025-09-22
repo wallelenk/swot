@@ -1492,7 +1492,6 @@ ui.ac.id
 unige.it
 udd.cl
 ub.ac.id
-osan.ac.kr
 cku.ac.kr
 dac.unicamp.br
 unicamp.br
