@@ -1588,3 +1588,5 @@ alhikmah.edu.ng
 ipe.buet.ac.bd
 menofia.edu.eg
 pucsp.edu.br
+payap.ac.th
+univpm.it
