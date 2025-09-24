@@ -104,7 +104,6 @@ udenar.edu.co
 udla.edu.co
 ul.edu.co
 unadvirtual.edu.co
-unal.edu.co
 unicoc.edu.co
 uniminuto.edu.co
 uninorte.edu.co
@@ -1589,3 +1588,7 @@ alhikmah.edu.ng
 ipe.buet.ac.bd
 menofia.edu.eg
 pucsp.edu.br
+payap.ac.th
+univpm.it
+etu.u-paris.fr
+u-paris.fr

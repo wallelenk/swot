@@ -838,3 +838,4 @@ stu.ecnu.edu.cn
 office365.npust.edu.tw
 eau.ac.th
 zuj.edu.jo
+gharbeia1.moe.edu.eg
