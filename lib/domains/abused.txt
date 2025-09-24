@@ -1590,3 +1590,5 @@ menofia.edu.eg
 pucsp.edu.br
 payap.ac.th
 univpm.it
+etu.u-paris.fr
+u-paris.fr
