@@ -1600,3 +1600,4 @@ campus.economicas.uba.ar
 uba.ar
 ift.edu.vn
 smkn2kraksaan.sch.id
+ecu.edu.eg
