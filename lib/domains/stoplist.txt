@@ -846,3 +846,5 @@ alumni.brown.edu
 ms.ift.edu.vn
 colegiolasesclavas.edu.pa
 uest.edu.gr
+knu.kr
+kwus.kr
