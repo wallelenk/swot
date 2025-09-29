@@ -1600,3 +1600,4 @@ ift.edu.vn
 smkn2kraksaan.sch.id
 ecu.edu.eg
 tup.edu.ph
+etu.sorbonne-universite.fr
