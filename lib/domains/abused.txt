@@ -870,7 +870,6 @@ mabankisd.net
 mail.hrka.net
 mail.sio-mermoz.net
 mymail.lausd.net
-mymdc.net
 sandyupper.net
 sas-sd.net
 sotcstudent.net
