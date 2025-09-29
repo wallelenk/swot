@@ -1601,3 +1601,4 @@ smkn2kraksaan.sch.id
 ecu.edu.eg
 tup.edu.ph
 etu.sorbonne-universite.fr
+uphsl.edu.ph
