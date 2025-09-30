@@ -1101,7 +1101,6 @@ dpu.ac.th
 kmitl.ac.th
 live.ku.th
 lpru.ac.th
-mahidol.ac.th
 mju.ac.th
 ms.kbu.ac.th
 my.buu.ac.th
