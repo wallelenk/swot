@@ -21,7 +21,6 @@ mi.unc.edu.ar
 philips.edu.ar
 sanluis.edu.ar
 ubp.edu.ar
-uca.edu.ar
 unimoron.edu.ar
 unla.edu.ar
 unsl.edu.ar
@@ -1101,7 +1100,6 @@ dpu.ac.th
 kmitl.ac.th
 live.ku.th
 lpru.ac.th
-mahidol.ac.th
 mju.ac.th
 ms.kbu.ac.th
 my.buu.ac.th
@@ -1601,3 +1599,5 @@ smkn2kraksaan.sch.id
 ecu.edu.eg
 tup.edu.ph
 etu.sorbonne-universite.fr
+uphsl.edu.ph
+uao.edu.co
