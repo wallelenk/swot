@@ -1601,3 +1601,4 @@ tup.edu.ph
 etu.sorbonne-universite.fr
 uphsl.edu.ph
 uao.edu.co
+chula.ac.th
