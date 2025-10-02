@@ -1605,3 +1605,4 @@ chula.ac.th
 zipernowsky.hu
 yeungnam.ac.kr
 stou.ac.th
+wwu.de
